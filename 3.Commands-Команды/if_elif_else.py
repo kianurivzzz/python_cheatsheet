@@ -34,3 +34,5 @@ elif guess < number:
 else:
     print('Нет, загаданное число немного меньше этого.')
     # чтобы попасть сюда, guess должно быть больше, чем number
+
+# py if_elif_else.py - запуск файла/file run

@@ -35,3 +35,5 @@ print(number_1 != number_2) # True
 #Function names must be written with parentheses
 
 # number_1, number_2 - названия переменных/variable names
+
+# py boolean_operators.py - запуск файла/file run

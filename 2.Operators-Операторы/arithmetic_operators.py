@@ -38,3 +38,5 @@ print(number_1 % number_2) # 2
 #Function names must be written with parentheses
 
 # number_1, number_2 - названия переменных/variable names
+
+# py arithmetic_operators.py - запуск файла/file run
